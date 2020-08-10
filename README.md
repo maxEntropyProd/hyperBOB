@@ -8,3 +8,6 @@ hyperBOB_initialize must be called first to allocate xMat_hyperBOB and fVal_hype
 Once xMat_hyperBOB and fVal_hyperBOB are no longer needed, they can be deallocated by calling hyperBOB_cleanUp.
 
 A simple test program is included in EggholderFcnTest.f90
+
+<a href="https://zenodo.org/badge/latestdoi/260558296"><img src="https://zenodo.org/badge/260558296.svg" alt="DOI"></a>
+
