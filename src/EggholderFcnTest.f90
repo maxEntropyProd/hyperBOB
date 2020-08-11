@@ -1,5 +1,5 @@
    ! This is a quick test of hyperBOB using the Eggholder function
-   ! see https://en.wikipedia.org/wiki/Rastrigin_function
+   ! see https://en.wikipedia.org/wiki/Test_functions_for_optimization
    ! This uses Ver 1.3 of hyperBOB which allows xMat_hyperBOB to be bigger than needed.  
    
    program EggholderTest
